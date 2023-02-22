@@ -40,7 +40,7 @@ pip install sacremoses
 pip install scikit-learn
 ```
 
-Remember to set the environment variables `MOSES` and `FASTBPE` to the path of Moses and fastBPE respetively, as they will be required later.
+Remember to set the environment variables `MOSES` and `FASTBPE` to the path of Moses and fastBPE respectively, as they will be required later.
 
 # Getting Started
 ## Pre-trained models
